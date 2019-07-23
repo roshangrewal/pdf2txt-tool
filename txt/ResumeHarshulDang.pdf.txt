@@ -1,0 +1,191 @@
+
+ 
+Movie Booking Site
+ 
+-
+ 
+Developed
+ 
+an online movie 
+booking
+ 
+website
+ 
+as a 
+medium for people 
+to
+ 
+book movie tickets easily
+.
+ 
+This website contains a login 
+screen for user login and it also contains a search bar to search movies stored in 
+the mongodb databse.
+ 
+
+ 
+Technology Used
+:
+ 
+ReactJs
+ 
+for frontend
+, NodeJs, 
+ExpressJs
+ 
+for server
+-
+side
+ 
+and 
+Mongodb as database.
+ 
+
+ 
+Link:
+ 
+bookmovie.herokuapp.com
+ 
+ 
+
+ 
+Chanzact
+ 
+-
+ 
+Developed 
+an android app for people who require change of 
+certain amount to reduce the suffering of peo
+ple standing in queue in front 
+of 
+the ATM
+ 
+for longer time
+.
+ 
+
+ 
+Technology Used
+:
+ 
+Android Studio, Google Maps to track a person, Firebase as 
+backened. 
+ 
+Training
+ 
+____________________________________________________________
+ 
+
+ 
+Corporate Training
+ 
+
+ 
+Completed corporate training in java(core java, servelets, 
+JSP).
+ 
+
+ 
+Summer 
+Training At HP
+ 
+
+ 
+Completed a certification course
+ 
+in
+ 
+Android
+ 
+at HP, 
+Kolkata
+,
+West Bengal. The duration of the course was one month. Created the 
+Chanzact 
+Project.
+ 
+
+ 
+Online Training at NPTEL
+ 
+-
+ 
+Completed certification course at NPTEL and scored 
+69% in IMAD and 68% in Fundamental algorithm online exam conducted by NPTEL, 
+IIT Madras  
+ 
+
+ 
+IoT Training
+ 
+
+ 
+Completed a certification course in 
+Iot
+ 
+at 
+Nexiot Labs
+, Bangalore. 
+Created a 
+Home Automation
+ 
+project.
+ 
+ 
+Achievements
+ 
+_______________________________________________________
+ 
+
+ 
+Got selected for 
+JP Morgan Chase & Co
+ 
+hackathon.
+ 
+
+ 
+Participated in 108 Emergency hackathon conducted by Hasura, Chennai.
+ 
+
+ 
+Participated in 48hr hack2help hackathon conducted by DSU
+, Bangalore.
+ 
+
+ 
+Participated in 24hr hackathon conducted by dept of CSE, DSCE Bangalore.
+ 
+ 
+Extra
+-
+Curricular    _____________________________________________________
+ 
+
+ 
+Like to attend Worshops and Tech
+-
+Meetups.
+ 
+
+ 
+Member 
+of 
+GLUG
+-
+DSCE, 
+a 
+Computer 
+Science 
+and 
+Engineering Society 
+of
+ 
+Daynanda Sagar College of Engineering, Bangalore
+.
+ 
+
+ 
+Playing Badminton, Watching Movie
+s
+ 

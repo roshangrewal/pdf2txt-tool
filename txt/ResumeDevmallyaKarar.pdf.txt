@@ -1,0 +1,221 @@
+PROJECT
+ 
+& RESEARCH PAPER
+ 
+ 
+ 
+1. 
+Project
+ 
+: 
+ 
+Finding 
+Artificial or Natural ripening of 
+the 
+fruit
+ 
+using Image P
+rocessing and IOT.
+ 
+ 
+    
+Objective : 
+In this paper, an efficient image processing technique is used to 
+detect whether the fruit is the 
+ 
+                 
+  
+    
+artificially ripened or naturally ripened fruit. The fruits considered here are Bananas and
+ 
+                  
+ 
+    
+Mangoes.
+ 
+The simulation is carried out using MATLAB tool (image processing) and 
+results
+ 
+                  
+ 
+    
+obtain has accuracy of 95%.
+ 
+ 
+2. 
+Research paper :
+ 
+Adapt
+ive Controller, PID Controller & Artificial I
+ntelligence in 
+Small UAV Aut
+opilot 
+ 
+                         
+     
+    
+System. 
+ 
+ 
+    
+Objective : 
+The main reason is for the 
+safety of the flight. Generally, pilots have to control the aircraf
+t
+ 
+                      
+ 
+ 
+W
+hen
+ 
+a complex situation happens where even an advanced autopilots systems are not able to
+ 
+                     
+ 
+  
+manage. Artificial Intelligence based methods an
+d Adaptive Controllers has proved 
+ 
+                        
+themselves to be an
+ 
+efficient in these scenarios with uncertainties.
+ 
+A Neural Network is used 
+ 
+                        
+to model the aircraft,
+ 
+and a Genetic Algorithm is applied to optimize the PID controller of a 
+ 
+                       
+ 
+quadcopter.
+ 
+                  
+ 
+ 
+ 
+ACADEMIC QUALIFICATION 
+ 
+ 
+Course
+ 
+Institution
+ 
+University
+ 
+Aggregate
+ 
+Year of 
+Passing
+ 
+ 
+BE
+ 
+M S 
+Engineering 
+College
+ 
+ 
+VTU
+ 
+ 
+51%
+ 
+ 
+2018
+ 
+ 
+12
+th
+ 
+Kendriya 
+Vidyalaya 
+Santragachi
+ 
+ 
+CBSE
+ 
+ 
+59
+%
+ 
+ 
+2013
+ 
+ 
+10
+th
+ 
+Kendriya 
+Vidyalaya 
+Santragachi
+ 
+ 
+CBSE
+ 
+ 
+7.4 CGPA
+ 
+ 
+2011
+ 
+ 
+ 
+PERSONAL INFORMATION 
+ 
+ 
+Fathers Name : 
+Mr. Sukhendu Karar.
+                                
+ 
+Mothers Name : 
+Mrs. Shivani Karar.
+                                                                      
+,      
+ 
+Languages : 
+English, Hindi, Bengali,
+ 
+French.
+                                                        
+ 
+Date of Birth : 
+8 January 1995.
+                                              
+                                 
+ 
+Permanent Address : 
+Ajanta Apartment A/2/1. Ichapur H.I.T Road Santragachi Howrah, West Bengal,
+ 
+                                     
+India.
+ 
+ 
+ 
+The above information is true and correct as per as my knowledge.
+ 
+ 
+ 
+Place : 
+Bangalore.
+ 
+Date :
+ 
+ 
+                
+                                                                                                                             
+                      
+                               
+ 
+ 
+ 
+                                                                                                                             
+                        
+Applicant Signature.
+ 
+                                                                                      
+                    
+ 

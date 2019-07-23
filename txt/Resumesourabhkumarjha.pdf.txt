@@ -1,0 +1,191 @@
+PERSONAL INFORMATION:
+ 
+Marital Status
+ 
+: Unmarried
+ 
+ 
+
+ 
+: Lalan Jha
+ 
+Date of birth
+ 
+: 21
+th
+ 
+may 1996
+ 
+ 
+Nationality
+ 
+: Indian
+ 
+ 
+Language Proficiency
+ 
+: English, Hindi, maithili, Kannada
+ 
+ 
+ 
+Declaration:
+ 
+ 
+I hereby declare that all the above mentioned details are true & correct to the best of my 
+knowledge & belief.
+ 
+Place: Bangalore
+ 
+Sourabh
+ 
+ 
+Date:
+ 
+ 
+hat and we overcome with this in our application. We created 
+this app by seeing the demands 
+and globalisation of digital marketing, even the necessity of people. For 
+present we scenario we have created one application for customer and dashboard for admin where they can 
+confirm the order and view the status etc. In future we will try to implement 
+two way maps in seller 
+application
+.
+ 
+ 
+
+ 
+Worked as a Developer.
+ 
+ 
+
+ 
+Developed User Authentication using Firebase, Account Setting, Payment Integration, and Cart
+ 
+
+ 
+  
+Designed and developed various XML Layouts in the application.
+ 
+ 
+  
+ 
+
+ 
+  
+Customized page layouts dependi
+ng upon client requirement.
+ 
+ 
+Project # 3
+ 
+: Pentateuch App
+ 
+ 
+Role
+ 
+: Developer
+ 
+Environment:
+ 
+Android
+ 
+Description
+     
+:
+ 
+Pentateuch
+ 
+app is an android application which we created for our own company where we are 
+working now and this was first app ever we have cre
+ated in team. This app we have 
+mentioned
+ 
+all the ideas of 
+company,
+ 
+technology on what they are working.
+ 
+ 
+Responsibilities:
+ 
+ 
+
+ 
+Worked as Android Developer in the organization.
+ 
+ 
+
+ 
+Developed User Authentication using Firebase, Using fragment merged all the activi
+ty of team member
+ 
+ 
+
+ 
+Designed and developed various XML Layouts in the application.
+ 
+ 
+
+ 
+Customized page layouts depending upon client requirement.
+ 
+ 
+Project # 4
+ 
+ 
+Role
+ 
+ 
+Environment
+ 
+ 
+:
+ 
+Shopping Website (myekha.com)
+ 
+ 
+: Developer
+ 
+: Bootstrap 4, PHP (7.2), Java Scr
+ipt, My SQL
+Description
+      
+ 
+:
+ 
+My Ekha is a shopping website for girls and this website we have included unique features 
+
+particular cloth then a pop
+
+once the user click on try it on button ,it will redirect to 360 degree view page ,this page we have kept model 
+and accessories menu left . Once the user click on selected c
+loth that cloth will fit over the model and then user 
+
+ 
+ 
+ 
+Responsibilities:
+ 
+ 
+
+ 
+Worked as a Developer.
+ 
+ 
+
+ 
+Worked on Complete Admin panel, Check out, Managing Address 
+of Account.
+ 
+ 
+
+ 
+Currently working on 360 degree View.
+ 
+ 
+
+ 
+Worked on creating the website responsive.
+ 
+ 
+ 

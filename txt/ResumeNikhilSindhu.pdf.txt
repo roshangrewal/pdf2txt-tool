@@ -1,0 +1,103 @@
+Page 
+2
+ 
+ 
+Projects
+ 
+COINKLAP
+ 
+
+ 
+Developed the entire frontend for a startup named Coinklap. It includes landing page, login & 
+register page and the entire dashboard.
+ 
+
+ 
+Technology stack used: HTML, SCSS, Bootstrap, gulp
+ 
+BOOKIIEE
+ 
+
+ 
+Designed and developed front end and backend for a 
+local ad classifieds website from scratch.
+ 
+
+ 
+Technology stack used: Photoshop, HTML, CSS, PHP, MySQL
+ 
+SRIJANMMU
+ 
+
+ 
+Created a website for National level 
+Architectural Festival
+ 
+which includes general information 
+about the fest such as events details, event schedul
+e, contact information etc. 
+ 
+
+ 
+Technology stack used: HTML, SCSS, Bootstrap, gulp
+ 
+TEDXMMUSADOPURAMBALA
+ 
+
+ 
+Created a full production ready website for TEDx event which includes general information about 
+the event such as name, date, theme, speakers, performers, 
+session schedule etc. The website also 
+included a registration portal for interested ones to register for the event.
+ 
+
+ 
+Technology stack used: Photoshop, HTML, CSS, Bootstrap, gulp, Node.js, Express
+ 
+SWAROOPMM
+ 
+
+ 
+Created a website for college fest which includes 
+general information about the fest such as events 
+details, event schedule, contact information etc. The website also included a registration portal for 
+interested ones to register and buy event tickets online.
+ 
+
+ 
+Technology stack used: Photoshop, HTML, CSS, B
+ootstrap, gulp, Node.js, Express
+ 
+Certifications
+ 
+THE COMPLETE WEB DEV
+ELOPER COURSE 
+ 
+
+ 
+Certification by Udemy
+ 
+
+ 
+License UC
+-
+UP9Z0EKV
+ 
+ 
+ 
+minds working on ML and AI related stuff.
+ 
+
+ 
+Developed a dashboard to monit
+or user chat sessions with AI bot
+ 
+
+ 
+Worked with some cool technologies like ReactJS, Redux, Node.js, Express etc
+ 
+
+ 
+Highlights: 
+Worked on dashboard from scratch to production ready single handed
+ 

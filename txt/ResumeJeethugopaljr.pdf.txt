@@ -1,0 +1,287 @@
+ 
+Place:
+ 
+Bengaluru
+ 
+ 
+Jeethugopal J R
+ 
+ 
+ 
+Kalluvilayil
+, 3
+rd
+ 
+cross, 14
+th
+ 
+main, Holy family church Rd, Hong Sandra, Bangalore 
+-
+ 
+560068
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+06361866546 
+ 
+˘ª
+ 
+jeethuvj90@gmail.com
+ 
+ 
+ 
+Key Skills
+ 
+Python with Django
+ 
+AWS (deployment of project)
+ 
+ 
+Python Rest API
+ 
+ 
+Basic 
+HTML
+ 
+5
+, CSS
+ 
+Angular 6
+ 
+ 
+XML
+ 
+Oracle 8i
+/9i
+ 
+MySQL & SQL server 2005
+ 
+Putty
+/CRT
+ 
+Linux (cent OS
+, Ubuntu
+)
+ 
+ 
+MS Office, Excel & PowerPoint
+ 
+Postman
+ 
+ 
+ 
+Soft Skills
+ 
+ 
+
+ 
+Collaborative
+ 
+
+ 
+Team Player
+ 
+ 
+Innovative
+ 
+  
+Thinker
+ 
+
+
+ 
+Education
+ 
+Full Stack Developer (Python with Django
+)
+ 
+-
+ 
+from 
+Devu.in
+, Bangalore.
+ 
+BCA
+ 
+  
+-
+ 
+Bachelor of Computer Applications, 
+from
+ 
+MGU
+, Kerala State.
+ 
+HSE(12
+th)
+ 
+-
+  
+from 
+C.G.H.S.S, Trivandrum (
+Board of Higher secondary examination, 
+K
+erala)
+ 
+SSLC(10th) 
+-
+  
+Secondary school leaving certificate
+ 
+from 
+P.T.M.H.S.S,
+ 
+Trivandrum
+ 
+ 
+Result oriented professional with ability to drive rapid prototyping an
+d arrive at business
+-
+critical
+ 
+solutions.
+ 
+ 
+Professional 
+deliverables
+: 
+ 
+
+ 
+Excellent ability to achieve solutions, acquire knowledge with high 
+ 
+      
+grasping level and implement appropriate methods and 
+Techniques.
+ 
+
+ 
+Always keen to grab thorough knowledge of the technology. 
+ 
+
+ 
+Proficiency in handling computer a
+ided tools and the web platform
+ 
+
+ 
+Uncommon ability to create quick interests among the colleagues. 
+ 
+
+ 
+Follows high standard of personal and work ethics.
+ 
+ 
+
+ 
+V
+ery good ini
+tiative and problem management skills.
+ 
+
+ 
+Enthusiasm to learn new technologies.
+ 
+ 
+My passion, when I am free
+ 
+
+ 
+Dancing
+ 
+
+ 
+Cooking
+ 
+
+ 
+Teaching
+ 
+
+ 
+Watching movies & listening songs.
+ 
+Project Achievements:
+ 
+Project Name
+: Blog Application
+ 
+Synopsis:
+ 
+ 
+Created a web application 
+using 
+python
+ 
+3 and Django web framework. 
+Additionally, this web application has a login form and user authentication.
+ 
+ 
+Project Name:
+ 
+Social Network Application
+ 
+Synopsis: 
+ 
+This simple concept of a enterprise social network to engage users to collaborate 
+and share exper
+iences. The basic idea is a simple feed app in the front page, like 
+Twitter so we could share links and post. This project 
+composes
+ 
+of a feedAPP, 
+Articles APP, 
+help
+ 
+to fetch details from Google, Search App.
+ 
+Development environment:
+ 
+ 
+Project 
+Name:
+ 
+Django 
+Notification and Email App
+ 
+Synopsis: 
+ 
+Many sites need to notify users when certain events have occurred and to allow 
+configurable options as to how those notifications are to be received. The project 
+aims to provide a Django app for this sort of functional
+ity. This
+ 
+includes: submission of notification messages by other apps, notification 
+messages on signing in, notification messages via email (configurable by user) and 
+notification messages via feed.
+ 
+ 
+Project Name:
+ 
+GUI 
+Programming
+ 
+using
+ 
+TKINTER
+ 
+Synopsis: 
+ 
+created a window > font size and window size 
+were
+ 
+set. This window has a 
+message box with slide in bar 
+and
+ 
+has a submit button.
+ 

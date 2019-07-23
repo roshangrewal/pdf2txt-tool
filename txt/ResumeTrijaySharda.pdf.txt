@@ -1,0 +1,65 @@
+Trijay Sharda
+ - 4 LANGUAGES 
+KNOWN: ENGLISH
+, HINDI
+, AND FRENCH
+ PERSONAL 
+DETAILS
+: Gender: 
+Male
+Citizenship : 
+Indian
+Date of Birth : 
+13th October 1993
+rdsKeeper
+ Wallet, explorer, token
+sale and statistics.
+ Created Developer libraries for Python PHP and NodeJS
+.Provision proper testing and deployment over multiple nodes.
+Acted as trainer for Smart Contract development and Hyperledger framework.
+3.Project
+: Online
+ Movie Ticketing System
+ (December 2016  August 2017)Description
+: The Online Movie Ticketing System was
+ created to 
+help people book their 
+favorite movie online and they do not have to stand in huge queues and wait for longer 
+duration
+. Online Movie T
+icketing System is 
+provisioned with interaction to Java services for 
+the legacy applications to interact with the portal.
+ Technology/Tools: C#, HTML, CSS, JQuery, AJAX, Oracle web server, Java
+ Responsibilities
+: Ensured proper branding and layout of app
+lication using CSS, JQuery, and JavaScript.
+Developed JQuery widgets which increased the performance and reduced the development
+time for the application.
+ Assisted in the formulation of high level architecture for the application.
+Developed Java web 
+service and deployed with Oracle Web logic server.
+4.Online Voting System
+ (August2014 
+- December 2014)
+Description:
+ It is a computer application in which people who have citizenship of India and 
+whose age is above 18 years of any can give their vote online without going to any polling 
+booth. A voter can use his/her voting right online without any difficulty. He/She has
+ to fill a 
+registration form to register himself/herself. All entries is checked by the database which has 
+already all information about the voter, if found correct all the user credentials will be given 
+to the user else the information would be discarded
+ Technology/Tools: HTML, CSS, Apache
+, Oracle web server, 
+Advanced Java Responsibilities:
+ Analyzed the problem and created the solution
+Designed templates for SSRS re
+ports
+.Assisted in the formulation of high level architecture for the application.
+OTHER
+ HOBBIES
+: RUNNING, BASKETBALL
+, SKATEBOARDING
+, CYCLING
+ 

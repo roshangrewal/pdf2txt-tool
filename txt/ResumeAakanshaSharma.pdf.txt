@@ -1,0 +1,296 @@
+ 
+PROJECTS
+: 
+-
+ 
+
+ 
+Major
+:
+ 
+ 
+Automatic
+ 
+Power Factor 
+Correction Relay
+ 
+o
+ 
+Description
+:
+ 
+P
+ower factor   correction is done
+ 
+by switching
+ 
+of capacitor through 
+APFC relay
+.
+ 
+ 
+
+ 
+Minor
+:
+ 
+ 
+Single
+ 
+Phase Full Wave Inverter using IC
+-
+4047
+ 
+o
+ 
+Description:
+ 
+It is a circuit in which IC CD4047B is used whose output is fed to
+ 
+two MOSFET 
+as 
+a 
+result pulsating dc
+,
+ 
+ac is achieved at input 
+of transformer
+.
+ 
+                                      
+ 
+EDUCATION
+: 
+-
+ 
+Degree
+ 
+Institute
+ 
+Board/University
+ 
+Year
+ 
+% 
+ 
+M.Tech
+ 
+Geetanjali Institute of Technical Studies, Udaipur
+ 
+RTU
+ 
+2018
+(Pursuing)
+ 
+61%
+ 
+B. Tech
+ 
+Techn
+o India NJR Institute of Technology, Udaipur
+ 
+RTU
+ 
+2014
+ 
+73%
+ 
+12
+th
+ 
+Central Academy Sr. Sec School
+, Udaipur
+ 
+CBSE
+ 
+2010
+ 
+81%
+ 
+10
+th   
+ 
+St. Anthony Sr. Sec 
+School,
+ 
+Udaipur
+ 
+CBSE
+ 
+2008
+ 
+74%
+ 
+ 
+Other Curriculum and 
+achievement
+s
+: 
+-
+ 
+
+ 
+Received appreciation award in 
+National 
+Level Project Exhibition, 2012
+ 
+conducted by
+ 
+VIT Campus, 
+Jaipur.
+ 
+ 
+
+ 
+Attended different workshop ESD
+M
+ 
+Workshop on Electronic System Design 
+and
+ 
+Manufacturing
+ 
+and 
+SHRM (Societ
+y of human resource management) w
+orkshop 
+on personality d
+evelopment
+.
+ 
+
+ 
+Certificate of Nat
+ional Workshop on fundamentals PSCAD by Nayak Power System.
+ 
+
+ 
+Soft. Skill
+s 
+-
+ 
+Worked on MATLAB, SQL
+.
+ 
+
+ 
+Seminar Presentation on 
+
+ 
+
+.
+ 
+ 
+INTEREST/
+HOBBIES
+: 
+-
+ 
+
+ 
+Listening to soft music
+ 
+and 
+foodie
+. 
+ 
+
+ 
+Sketching
+.
+ 
+
+ 
+Surfing on internet during my free tim
+e.
+ 
+PERSONAL 
+DETAILS
+: 
+-
+ 
+       
+
+ 
+:
+ 
+Mayur Kumar Sh
+arma   
+ 
+
+ 
+:
+ 
+Late Anil Kumar Sharma
+ 
+
+ 
+:
+ 
+Asha Sharma
+ 
+DOB
+ 
+ 
+:
+ 
+3
+rd
+ 
+September 1991
+ 
+Address
+ 
+ 
+:
+ 
+D203 Satyaraj Angan Kale Padal Hadapsar Pune 411028
+ 
+rtified Smart Brains Engineer & Technologist Pvt. 
+Ltd., Ghaziabad
+ 
+o
+ 
+Duration:
+ 
+18
+th
+ 
+Jan.2014 to 03
+th
+ 
+Feb 2014
+ 
+o
+ 
+Description:
+ 
+Learn about Relevant codes & Indian Standard
+, p
+repa
+re
+d
+ 
+Single Line and 
+Substation
+ 
+Lighting Layout 
+o
+n AUTOCAD
+ 
+Electrical Load Calculation Selection and Sizing
+ 
+o
+f 
+Electrical
+ 
+Equipment, Hazardous Area Classification,
+ 
+Earthing 
+Layout, 
+Cable
+ 
+Sizing & 
+Scheduling etc
+.
+ 

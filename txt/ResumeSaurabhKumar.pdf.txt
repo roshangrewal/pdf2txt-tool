@@ -1,0 +1,180 @@
+ 
+ 
+ 
+ 
+ 
+# 3
+ 
+ 
+Title
+ 
+ 
+:
+ 
+SmartKlinic (Patient Side)
+ 
+Client
+ 
+ 
+:
+ 
+Health5
+c Wellness 
+Solution
+ 
+Role 
+ 
+ 
+: 
+ 
+Developer / Programmer
+ 
+Team
+ 
+Size
+ 
+: 
+ 
+4
+ 
+Environment
+ 
+:
+          
+Angular
+j
+s
+, JavaScript, 
+jQuery
+,
+ 
+Bootst
+rap 
+3
+,
+ 
+Core Java (1.6),
+ 
+J2EE,
+ 
+S
+p
+r
+i
+n
+g
+,
+          
+  
+          
+Servlet
+, Hibernate, JDBC, MySQL, XML, Tomcat, SVN, Eclipse
+.
+ 
+Description
+ 
+:
+ 
+ 
+Users can keep track of their health records.
+ 
+Users can get the detail description of 
+health
+-
+related
+ 
+data such as BMI, BMR, BP,
+ 
+Waist by 
+heap ratio, Glucose, Thyroid, cholesterol, pregnancy, ch
+ild growth,
+ 
+Immunization, sleep, water 
+drinking etc. 
+ 
+ 
+Users can also keep the records for the family members and health related 
+documents. 
+ 
+User can also connect the health devices to the platform (through Human API)
+.
+ 
+Users can have a health ris
+k assessment and can also read health related articles (and many 
+more features related to health).
+ 
+ 
+ 
+Responsibilities
+:
+ 
+ 
+
+ 
+Designed and developed the various UI of the project using the complex angular      
+components. 
+ 
+
+ 
+Integration of various module of the project using Angularjs.
+ 
+ 
+
+ 
+Used different angular based components and libraries such as
+ 
+ui
+-
+bootstrap for        Angularjs. 
+Performed the Unit testing of the project using Karma and Jasmine.js. 
+ 
+
+ 
+Introduced advanced fea
+tures into the project such as 
+angular charts
+, D3 charts, UI
+-
+       
+bootstrap components etc.
+ 
+ 
+ 
+DECLARATION
+ 
+ 
+I do hereby declare that the above information is true to the best of my knowledge
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Place: 
+Bangalore
+                                                                                                     
+        
+Saurab
+h
+ 
+Kumar 
+ 
+Date:
+  
+05 
+Feb 201
+9
+                                                            
+   
+                                               
+(Signatur
+e)
+ 
+ 
+ 
+ 
+ 

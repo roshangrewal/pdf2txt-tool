@@ -1,0 +1,235 @@
+Description
+: This project is designed get the active policies inform
+a
+tion based from the excel file 
+input by user and send it to the respective Bank. 
+ 
+Responsibilities
+:  
+ 
+
+ 
+Responsible to do the all the new changes in code. 
+ 
+
+ 
+Crea
+ted SQL procedure to compare the policies with active policies. 
+ 
+
+ 
+Worked on performance improvement for further enhancements. 
+ 
+
+ 
+Responsible for troubleshooting the errors and issues clients faces when 
+application attached the document in database. 
+ 
+
+ 
+Weekly 
+standup calls with client to review the new functionality, which needs to be 
+implemented. 
+ 
+ 
+ 
+INTERNSHIP 
+---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Title 
+ 
+: 
+ 
+CLOUD X 
+
+ 
+OPEN SERVE [ 2015 ] 
+ 
+ 
+Organization 
+ 
+: 
+ 
+Linux World , Jaipur 
+ 
+ 
+Platform Used 
+ 
+: 
+ 
+Linux (RedH
+at 
+-
+v 6.4) 
+ 
+Technology Used : 
+ 
+VM
+-
+Ware,
+ 
+Web Portal (Python CGI
+,
+ 
+html, 
+MySQL
+) 
+ 
+ 
+Description 
+ 
+: 
+ 
+Automate Deployment Of Cloud Computing &
+ 
+Virtualization on REDHAT 
+Linux
+ 
+system using Python Scripting (CGI
+-
+Web Portal )
+.It deals with the
+ 
+ 
+ 
+ 
+ 
+    
+Implementation of 
+CLOUD,
+ 
+services 
+like SAAS, STAAS
+, 
+IAAS,
+ 
+Dynamic
+ 
+Expansion of
+ 
+HDD (with no data loss
+),
+ 
+Drop box 
+featured,
+ 
+etc. All these
+ 
+ 
+ 
+ 
+ 
+      
+Comes true by using PYTHON CGI on Red 
+Hat (OS) & centralized in a 
+Web 
+Portal. 
+ 
+ 
+ 
+EDUCATIONAL QUALIFICATION 
+--
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Bachelor of Technology in Computer Science & Engineering 
+ 
+Rajasthan Technical University, May
+-
+ 
+2016 
+ 
+Overall CGPA 7.5; Honors each semester 
+ 
+ 
+ 
+AWARD AND ACHIEVEMENTS 
+--
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Received Rising Stars Award for the Q2/H1 
+
+ 
+2018. 
+ 
+
+ 
+Project level recognition for detailed understanding of application and Client appreciations. 
+ 
+ 
+ 
+PROFESSIONAL STRENGTH 
+--
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Keen to Learn, Result Oriented, Innovative, Decision Making, Supportive, Interact productively 
+with people from diverse backgroun
+ds 
+ 
+
+ 
+Have good experience in administrative tasks. 
+ 
+ 
+ 
+PERSONAL INFORAMATION 
+--
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+Birth Date: 
+ 
+07 November 1994 
+ 
+ 
+ 
+Languages: 
+ 
+English, Hindi 
+ 
+Home Town:         Jaipur, Rajasthan 
+ 
+                      
+Nationality: 
+ 
+Indian
+ 
+ 

@@ -1,0 +1,236 @@
+ 
+EDUCATION
+ 
+
+ 
+B. E. in Computer Science
+, 
+Goa College o
+f Engineering
+, 
+Goa University
+ 
+          
+ 
+2011 
+
+ 
+2015
+ 
+
+ 
+Diploma in Electrical & Electronics Engineering
+, Govt.
+ 
+Polyte
+chnic
+ 
+College
+, Goa
+ 
+  
+  
+2007 
+
+ 
+2010
+ 
+ 
+ 
+ 
+ 
+TECHNICAL EXPERTISE
+ 
+Languages:  C/C++, Java, Python, R 
+ 
+Web development: HTML5, CSS, JavaScript, Bootstrap, 
+AngularJS, 
+JSON, 
+NodeJS, 
+WordPress
+ 
+Platf
+orms:  LINUX, Windows
+ 
+Databases:  Structured Query Language, Microsoft
+ 
+Access, FoxPro, Oracle
+ 
+Miscellan
+eous:  Git, 
+Xcode, Prezi
+ 
+ 
+ 
+PERSONAL SKILLS
+ 
+
+ 
+Ability to learn a new Programming Language within a short period of time.
+ 
+
+ 
+Ability to grasp concepts quickly, Goal Oriented 
+ 
+
+ 
+Self
+-
+Motivated, Enthusiastic and Cheerful.
+ 
+
+ 
+Excellent 
+communication
+-
+Oral & Written skills
+ 
+
+ 
+Good with Intera
+ction
+ 
+Design
+ 
+ 
+ 
+PUBLICATIONS AND SELECTED PROJECTS
+ 
+ 
+
+ 
+ 
+Perception Analysis for Business Estimation of E
+-
+retailer
+ 
+(
+MIT Manipal)
+ 
+ 
+                                                                                                                             
+                     
+ 
+
+ 
+Design and implement highly scalable predictive mod
+els to perform various analyses
+ 
+
+ 
+Tuning the ETL processes &
+ 
+Document the ETL d
+etailed design and test 
+results
+     
+ 
+
+ 
+Web Crawling and scrap
+ing from social media platforms
+ 
+
+ 
+Building models using advanced Statistical and Predictive Modelling techniques
+ 
+
+ 
+Create datasets of Health Ecommerce Industr
+y data from Biometric da
+tabases
+ 
+
+ 
+Predict the sales using the Hybrid Model developed
+ 
+ 
+ 
+
+ 
+Voice 
+Recognition System using 
+Machine Learning
+ 
+(NIT
+ 
+S
+u
+ratkal) 
+ 
+
+ 
+Understand characteristics of input data, evaluate alternate models 
+ 
+
+ 
+Validate hypothesis through theoretical and empirical 
+approaches.
+ 
+
+ 
+Information extraction & Noun Entity Resolution.
+ 
+
+ 
+Evaluating Text data & using NLP concepts for handling the text and support knowledge 
+ 
+
+ 
+Component of the input.
+ 
+ 
+he project team to ensure 
+timely delivery of project.
+ 
+ 
+Bosch India Packaging Technology, Goa
+ 
+ 
+  
+ 
+ 
+T
+e
+chnical
+ 
+Engineer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 2010 
+
+ 
+April 2011
+ 
+
+ 
+BVK 2000 Bosch packaging machine/NEL/Pharma 
+ 
+
+ 
+PLC Programming, Designing and Development of SCADA, Screen Development in HMI, I/O List.
+ 
+
+ 
+Knowledge of Starter
+ 
+software, SIMATIC S7 software
+.
+ 
+
+ 
+Implementation and modification in PLC, Robotic, and SCADA Programmin
+g
+ 
+
+ 
+Applied Instrumentation such as P.L.C, A.C Drive, Servo Motor, Servo Drive
+.
+ 
