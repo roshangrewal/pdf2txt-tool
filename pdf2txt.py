@@ -14,6 +14,6 @@ def convertMultiple(pdfdir, txtdir):
                 textFilename = txtdir + pdf + ".txt"
                 textFile = open(textFilename, "wb") 
                 textFile.write(text) 
-pdfdir = "D:/Quantamix/Pranavs Code/pdftotxt/p2t/pdf/"
-txtdir = "D:/Quantamix/Pranavs Code/pdftotxt/p2t/txt/"
+pdfdir = "D:/GitHub/pdf2txt-tool/pdf/"
+txtdir = "D:/GitHub/pdf2txt-tool/txt/"
 convertMultiple(pdfdir, txtdir)
